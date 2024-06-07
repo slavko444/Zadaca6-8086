@@ -46,7 +46,6 @@ IZLEZ: SHR SI ; крај, пронајден
 CODE ENDS
  END START
 ```
-Изглед на стекот: 
 
 ![Screenshot (1)](https://github.com/slavko444/Zadaca6-8086/blob/main/Zadaca6%208086%20code.png)
 
